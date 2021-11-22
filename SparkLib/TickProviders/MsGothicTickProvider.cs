@@ -6,14 +6,6 @@
     /// </summary>
     public class MsGothicTickProvider : ITickProvider
     {
-        private readonly char[] _ticks = new char[] { '▁', '▂', '▃', '▄' ,'▅', '▆', '▇','█'};
-
-        public char[] Ticks
-        {
-            get
-            {
-                return _ticks;
-            }
-        }
+        public char[] Ticks { get; } = new char[] { '▁', '▂', '▃', '▄', '▅', '▆', '▇', '█' };
     }
 }

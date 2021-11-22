@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>Spark.NET</id>
-        <version>1.0.2</version>
+        <id>Sparkline.NET</id>
+        <version>2.0.0</version>
         <title />
-        <authors>ahmetalpbalkan</authors>
-        <owners>Ahmet Alp Balkan</owners>
-        <licenseUrl>https://raw.github.com/ahmetalpbalkan/Spark.NET/master/LICENSE.md</licenseUrl>
-        <projectUrl>https://github.com/ahmetalpbalkan/Spark.NET</projectUrl>
+        <authors>ahmetalpbalkan,asears</authors>
+        <owners>Andrew Sears</owners>
+        <licenseUrl>https://raw.github.com/asears/Spark.NET/master/LICENSE.md</licenseUrl>
+        <projectUrl>https://github.com/asears/Spark.NET</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Generate charts out of number sequences with unicode characters:
 

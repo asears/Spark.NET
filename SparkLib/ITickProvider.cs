@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace SparkNet
+﻿namespace SparkNet
 {
     public interface ITickProvider
     {

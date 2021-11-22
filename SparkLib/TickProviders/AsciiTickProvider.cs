@@ -5,14 +5,6 @@
     /// </summary>
     public class AsciiTickProvider : ITickProvider
     {
-        private readonly char[] _ticks = new char[] { '_', '.', 'ı', 'l', '|'};
-
-        public char[] Ticks
-        {
-            get
-            {
-                return _ticks;
-            }
-        }
+        public char[] Ticks { get; } = new char[] { '_', '.', 'ı', 'l', '|' };
     }
 }
