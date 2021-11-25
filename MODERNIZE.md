@@ -611,3 +611,12 @@ Publish to Azure Artifacts
 ## Package Source Mapping
 
 <https://devblogs.microsoft.com/nuget/introducing-package-source-mapping/>
+
+## Additional Modernization
+
+- Upgrade the solution file.  
+- Update the gitignore from GitHub/gitignore.
+- Add pipelines and actions
+- Language specification improvements - see <https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction>
+
+
