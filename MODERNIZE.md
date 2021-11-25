@@ -618,5 +618,4 @@ Publish to Azure Artifacts
 - Update the gitignore from GitHub/gitignore.
 - Add pipelines and actions
 - Language specification improvements - see <https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction>
-
-
+- Bring your .NET Apps Forward with the .NET Upgrade Assistant <https://www.codemag.com/Article/2111032/Bring-Your-.NET-Apps-Forward-with-the-.NET-Upgrade-Assistant>
